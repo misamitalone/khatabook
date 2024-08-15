@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "lang": "en-US",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "/khatabook/index.html",
   "display": "standalone",
   "background_color": "#f8c8dc",
   "theme_color": "#ff69b4",
