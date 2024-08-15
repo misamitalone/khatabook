@@ -7,7 +7,7 @@
   "start_url": "/khatabook/index.html",
   "display": "standalone",
   "background_color": "#f8c8dc",
-  "theme_color": "#ff69b4",
+  "theme_color": "#f8c8dc",
   "orientation": "portrait",
   "categories": ["business"],
   "description": "This Khata Book PWA Created by Mr. Amit Kumar Alone",
