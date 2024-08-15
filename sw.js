@@ -1,10 +1,10 @@
 var cacheName = "khatabook-alone";
 var filesToCache = [
-  "/",
-  "/index.html",
-  "/src/style.css",
-  "/src/script.js",
-  "/src/icon144.png",
+  "/khatabook/",
+  "/khatabook/index.html",
+  "/khatabook/src/style.css",
+  "/khatabook/src/script.js",
+  "/khatabook/src/icon144.png",
 ];
 
 /* Start the service worker and cache all of the app's content */
