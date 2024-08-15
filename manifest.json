@@ -1,0 +1,54 @@
+{
+  "name": "Khata Book",
+  "short_name": "KhataBook",
+  "version": "1.0.0",
+  "lang": "en-US",
+  "scope": "/",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8c8dc",
+  "theme_color": "#ff69b4",
+  "orientation": "portrait",
+  "categories": ["business"],
+  "description": "This Khata Book PWA Created by Mr. Amit Kumar Alone",
+  "icons": [
+    {
+      "src": "src/icon144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "src/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "src/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "src/screen01.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Icon screen of KhataBook App"
+    },
+    {
+      "src": "src/screen02.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Homescreen of KhataBook App"
+    },
+    {
+      "src": "src/screen03.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "List of KhataBook App and available Party List"
+    }
+  ]
+}
