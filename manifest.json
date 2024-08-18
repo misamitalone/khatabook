@@ -5,7 +5,7 @@
   "lang": "en-US",
   "scope": "/",
   "start_url": "/khatabook/index.html",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#f8c8dc",
   "theme_color": "#f8c8dc",
   "orientation": "portrait",
