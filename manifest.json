@@ -13,12 +13,6 @@
   "description": "This Khata Book PWA Created by Mr. Amit Kumar Alone",
   "icons": [
     {
-      "src": "src/icon144.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
       "src": "src/icon192.png",
       "sizes": "192x192",
       "type": "image/png",
